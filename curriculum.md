@@ -39,9 +39,9 @@
 
 ## Intermediate 
     - Exception Handling
+    - Generics
     - Collections
     - Streams
-    - Generics
     - Maven
     - Packaging
         - JAR
